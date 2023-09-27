@@ -1,2 +1,2 @@
 # FER-AU
-FER Action Unit
+FER Action Unit by Miguel Capule
